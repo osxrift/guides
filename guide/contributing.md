@@ -1,3 +1,9 @@
+---
+breadcrumbs:
+  - link: /guide/contributing
+    title: Contributing to this guide
+---
+
 # Contributing
 All the of OSX Rift's guide section is [available on Github][repo] to enable an easy medium for community wide collaboration. You don't have to be familiar with git to get started because Github itself provides a whole host of tools to let you get started contributing.
 
